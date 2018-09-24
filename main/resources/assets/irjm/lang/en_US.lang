@@ -1,0 +1,88 @@
+item.ItemNewBlock.name=Heccin Face
+
+tile.BlockNewItem.name=Purple Rock
+
+item.Muffin.name=Muffin Batter
+
+item.BurntMuffin.name=Muffin
+
+entity.Stark Man.name=Northerner
+entity.Stark Soldier.name=Stark Soldier
+entity.Lannister Man.name=Southerner
+entity.Lannister Soldier.name=Lannister Soldier
+item.WesterlandSteel.name=Westerland Steel
+item.NorthernSteel.name=Northern Steel
+tile.StarkCT.name=Stark Crafting Table
+tile.LannisterCT.name=Lannister Crafting Table
+
+item.NorthernSword.name=Northern Sword
+item.WesterlandSword.name=Westerland Sword
+item.starkBow.name=Northern Bow
+item.lannisterBow.name=Westerland Bow
+itemGroup.tabIanMod=IanRJ Mod <3
+itemGroup.tabGoTArmor=GoT Armor
+itemGroup.tabGoTblocks=GoT Blocks
+itemGroup.tabGoTMaterials=GoT Materials
+itemGroup.tabGoTWeapons=GoT Weapons
+itemGroup.tabGoTFood=GoT Foodstuffs
+
+tile.BlockPurplePillar.name=Purple Rock Pillar
+
+item.ItemNickle.name=Gem Stone
+
+item.ItemGemPickaxe.name=Gem Pickaxe
+
+item.ItemGemSpade.name=Gem Shovel
+
+item.ItemGemSword.name=Gem Sword
+
+item.ItemGemHoe.name=Gem Hoe
+
+item.ItemGemAxe.name=Gem Axe
+
+item.ItemBlueberry.name=Blueberry
+
+item.ItemGemHelmet.name=Gem Helmet
+item.ItemGemChestplate.name=Gem Chestplate
+item.ItemGemLeggings.name=Gem Leggings
+item.ItemGemBoots.name=Gem Boots
+
+tile.BlockCarvedPurpleRock.name=Carved Purple Rock
+
+tile.LimestoneBrick.name=Limestone Brick
+tile.LimestoneBrickCA.name=Carved Limestone Brick
+tile.LimestoneBrickCR.name=Cracked Limestone Brick
+tile.LimestoneBrickF.name=Frozen Limestone Brick
+tile.LimestoneBrickB.name=Burnt Limestone Brick
+tile.LimestoneBrickM.name=Mossy Limestone Brick
+tile.LimestoneCobble.name=Limestone Cobble
+tile.Limestone.name=Limestone
+
+tile.NorthStoneBrick.name=Granite Brick
+tile.NorthStoneBrickCA.name=Carved Granite Brick
+tile.NorthStoneBrickCR.name=Cracked Granite Brick
+tile.NorthStoneBrickF.name=Frozen Granite Brick
+tile.NorthStoneBrickB.name=Burnt Granite Brick
+tile.NorthStoneBrickM.name=Mossy Granite Brick
+tile.NorthStoneCobble.name=Granite Cobble
+tile.NorthStone.name=Granite
+
+item.StarkRegularHelmet.name=Stark Helmet
+item.StarkRegularChestplate.name=Stark Chestplate
+item.StarkRegularLeggings.name=Stark Leggings
+item.StarkRegularBoots.name=Stark Boots
+generator.Game Of Thrones=Game of Thrones
+item.StarkPlatedHelmet.name=Plated Stark Helmet
+item.StarkPlatedChestplate.name=Plated Stark Chestplate
+item.StarkPlatedLeggings.name=Plated Stark Leggings
+item.StarkPlatedBoots.name=Plated Stark Boots
+
+item.LannisterPlatedHelmet.name=Plated Lannister Helmet
+item.LannisterPlatedChestplate.name=Plated Lannister Chestplate
+item.LannisterPlatedLeggings.name=Plated Lannister Leggings
+item.LannisterPlatedBoots.name=Plated Lannister Boots
+
+item.LannisterRegularHelmet.name=Lannister Helmet
+item.LannisterRegularChestplate.name=Lannister Chestplate
+item.LannisterRegularLeggings.name=Lannister Leggings
+item.LannisterRegularBoots.name=Lannister Boots
